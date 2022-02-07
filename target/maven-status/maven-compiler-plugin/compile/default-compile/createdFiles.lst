@@ -1,0 +1,8 @@
+isen/quiz/service/QuestionService.class
+module-info.class
+isen/quiz/model/Question.class
+isen/quiz/model/Answer.class
+isen/quiz/App.class
+isen/quiz/service/QuestionService$QuestionServiceHolder.class
+isen/quiz/view/HomeScreenController.class
+isen/quiz/view/QuizOverviewController.class
